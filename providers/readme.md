@@ -61,7 +61,14 @@
 * Provider short name: `entrust`
 * Company name: Entrust
 * Company website: https://www.entrust.com/
-* Implementation: Proprietary, but internally uses OpenQuantumSafe.
+* Implementation: Entrust Security Toolkit for Java.  Proprietary, but internally uses openSSL for PQ crypto.
+
+# Entrust-pkihub
+
+* Provider short name: `entrust`
+* Company name: Entrust
+* Company website: https://www.entrust.com/
+* Implementation: Entrust Cloud based PKI-HUB.  Proprietary, but internally uses openSSL for PQ crypto.
 
 # ISI
 
